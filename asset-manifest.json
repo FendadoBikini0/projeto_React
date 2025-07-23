@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/projeto_React/static/css/main.5e395bf3.css",
+    "main.js": "/projeto_React/static/js/main.dfb537ac.js",
+    "static/js/453.e07486db.chunk.js": "/projeto_React/static/js/453.e07486db.chunk.js",
+    "static/media/hero3.png": "/projeto_React/static/media/hero3.4fff27ebb86e8b23fb51.png",
+    "static/media/quadros2.png": "/projeto_React/static/media/quadros2.75ae18aa8286ecc3d564.png",
+    "static/media/hero2.png": "/projeto_React/static/media/hero2.e27696a349d79c7b6f39.png",
+    "static/media/logovx.png": "/projeto_React/static/media/logovx.4e9a78e3bdc3f214c034.png",
+    "static/media/hero1.png": "/projeto_React/static/media/hero1.50729600a223395963b1.png",
+    "static/media/logovxpng.png": "/projeto_React/static/media/logovxpng.4618405067a96828c427.png",
+    "static/media/folder3.jpg": "/projeto_React/static/media/folder3.bff3602cee06c9f79d90.jpg",
+    "static/media/portfolio1.jpg": "/projeto_React/static/media/portfolio1.e1faa8078f20768feade.jpg",
+    "static/media/plotagem2.jpg": "/projeto_React/static/media/plotagem2.204a1e144974820e8dcc.jpg",
+    "static/media/adesivo3.jpg": "/projeto_React/static/media/adesivo3.95856982967365d791bf.jpg",
+    "static/media/caneca3.jpg": "/projeto_React/static/media/caneca3.9bcd3bc15491db2c989c.jpg",
+    "static/media/banner1.png": "/projeto_React/static/media/banner1.679bb9b238482ee7b28f.png",
+    "static/media/plotagem1.jpg": "/projeto_React/static/media/plotagem1.a0aa54f7e7740fb8ceb0.jpg",
+    "static/media/plotagem3.jpg": "/projeto_React/static/media/plotagem3.ee08d270c7329a867d7c.jpg",
+    "static/media/folder1.png": "/projeto_React/static/media/folder1.13373ad8114156e58274.png",
+    "static/media/quadros1.jpg": "/projeto_React/static/media/quadros1.f8da1dbd6c6ce29e211e.jpg",
+    "static/media/quadros3.jpg": "/projeto_React/static/media/quadros3.0ae0f4e808ed44113c45.jpg",
+    "static/media/quadros4.jpg": "/projeto_React/static/media/quadros4.17ce96f5f479b65a464f.jpg",
+    "static/media/caneca1.webp": "/projeto_React/static/media/caneca1.532b72b95549052b6b60.webp",
+    "static/media/adesivo2.jpg": "/projeto_React/static/media/adesivo2.b38d87330c151507bb20.jpg",
+    "static/media/adesivo1.webp": "/projeto_React/static/media/adesivo1.7f710a7604806847702a.webp",
+    "static/media/banner3.jpg": "/projeto_React/static/media/banner3.a150165b9a32113b46f7.jpg",
+    "static/media/folder2.jpg": "/projeto_React/static/media/folder2.69f363f7255c31a27a07.jpg",
+    "static/media/camisa1.webp": "/projeto_React/static/media/camisa1.b04ec93ce89d22a8d1b4.webp",
+    "static/media/caneca2.webp": "/projeto_React/static/media/caneca2.d7252553a7a0c2816ebc.webp",
+    "static/media/banner2.jpg": "/projeto_React/static/media/banner2.aca2f630cd853856e339.jpg",
+    "static/media/adesivo4.webp": "/projeto_React/static/media/adesivo4.f43242f71af956731c00.webp",
+    "static/media/logo.svg": "/projeto_React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/projeto_React/index.html",
+    "main.5e395bf3.css.map": "/projeto_React/static/css/main.5e395bf3.css.map",
+    "main.dfb537ac.js.map": "/projeto_React/static/js/main.dfb537ac.js.map",
+    "453.e07486db.chunk.js.map": "/projeto_React/static/js/453.e07486db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e395bf3.css",
+    "static/js/main.dfb537ac.js"
+  ]
+}
