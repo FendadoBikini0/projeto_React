@@ -12,6 +12,7 @@ function App() {
       <Hero />
       <Catalog />
       <Portfolio />
+      <About />
     </>
   );
 }
